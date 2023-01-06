@@ -1,3 +1,5 @@
 # TOD_Proj
-TOD_git
+TOD_Recipe Project
 The Odin Project
+
+# What I learned
