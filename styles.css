@@ -51,7 +51,7 @@ img {
 
 p {
     max-width: 75%;
-    
+    margin: 0 auto 10px;
 }
 
 ol li {
